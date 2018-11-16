@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=enchilada
+export DEVICE=fajita
 export DEVICE_COMMON=sdm845-common
 export VENDOR=oneplus
 
